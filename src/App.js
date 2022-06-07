@@ -71,7 +71,7 @@ function App() {
           </div>
 
           <Switching>
-            <Route path="/" exact>
+            <Route path="/potfolio-final" exact>
               <HomePage />
             </Route>
             <Route path="/about" exact>
