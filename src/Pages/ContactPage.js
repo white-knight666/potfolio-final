@@ -29,7 +29,7 @@ function ContactPage() {
         'Y2UyxWz25BNWZG3Px')
         .then((result) => {
             console.log(result.text);
-            history.push('/potfolio-final');
+            history.push('/');
             
             
         }, (error) => {
